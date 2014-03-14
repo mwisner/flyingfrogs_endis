@@ -1,4 +1,4 @@
 #modman.
 
 app/etc/modules/FlyingFrogs_Endis.xml app/etc/modules/FlyingFrogs_Endis.xml
-app/code/local/FlyingFrogs app/code/local/FlyingFrogs
+app/code/local/FlyingFrogs/Endis app/code/local/FlyingFrogs/Endis
